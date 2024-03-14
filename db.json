@@ -1,0 +1,39 @@
+{
+    "items": [
+      {
+        "name": "Bluetooth Headphones",
+        "price": 59.99,
+        "currency": "USD",
+        "sku": ["BH234X","BH2356h"],
+        "description": "Wireless Bluetooth headphones with noise cancellation.",
+        "image_url": "https://example.com/images/bluetooth-headphones.jpg"
+      },
+      {
+        "name": "LED Desk Lamp",
+        "price": 29.95,
+        "currency": "USD",
+        "sku": ["LDL392","ABCD1237"],
+        "description": "Adjustable LED desk lamp with 4 lighting modes.",
+        "image_url": "https://example.com/images/led-desk-lamp.jpg"
+      },
+      {
+        "name": "Smart Watch",
+        "price": 199.99,
+        "currency": "USD",
+        "sku":[ "SW958","SWAR123","FOSS567"],
+        "description": "Water-resistant smartwatch with heart rate monitor.",
+        "image_url": "https://example.com/images/smart-watch.jpg"
+      },
+      {
+        "name": "USB-C Hub",
+        "price": 45.50,
+        "currency": "USD",
+        "sku": ["UCH112"],
+        "description": "7-in-1 USB-C hub with HDMI, USB-A, and SD card slots.",
+        "image_url": "https://example.com/images/usb-c-hub.jpg"
+      }
+    ]
+  }
+
+
+  
